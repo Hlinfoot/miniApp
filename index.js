@@ -40,13 +40,7 @@ function start() {​
             }
         });
 }​
-// function to handle posting new items up for auction
-function postAuction() {
-    // prompt for info about the item being put up for auction
-    ​}​
-function bidAuction() {
-    // query the database for all items being auctioned
-    ​}
+
 // function to handle posting new items up for auction
 function postAuction() {
     // prompt for info about the item being put up for auction
@@ -91,3 +85,7 @@ function postAuction() {
             );
         });
 }
+
+function bidAuction() {
+    // query the database for all items being auctioned
+    ​}
