@@ -1,0 +1,19 @@
+{
+  "name": "miniapp",
+  "version": "1.0.0",
+  "description": "class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hlinfoot/miniApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hlinfoot/miniApp/issues"
+  },
+  "homepage": "https://github.com/Hlinfoot/miniApp#readme"
+}
